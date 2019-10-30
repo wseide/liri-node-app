@@ -1,0 +1,177 @@
+
+
+
+drake
+
+drake
+
+drake
+
+movie-this Rampage
+
+
+    Title: Rampage
+    Released: 2018
+    IMDB Rating: 6.1
+    Rotten Tomatos Rating: 51%
+    Country: USA
+    Language: English, American Sign Language
+    Plot: When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.
+    Actors: Dwayne Johnson, Naomie Harris, Malin Akerman, Jeffrey Dean Morgan
+            
+spotify-this-song
+
+
+    Artist: Pantones
+    Track: The Sign - Ace Of Base Cover
+    Preview: https://p.scdn.co/mp3-preview/b776967c99853086b23b79ae3c83db64a4b2cfda?cid=457bd57fa3b44939b4c8ee087a613271
+    Album: ¿Quién Quiere Primavera ?
+            
+concert-this Kanye
+undefined
+concert-this Taylor Swift
+
+
+    Venue: Lover Fest East
+    Location: Foxborough, 
+    Event Date: 08/01/2020
+            
+spotify-this-song old town road
+
+
+    Artist: Lil Nas X
+    Track: Old Town Road - Remix
+    Preview: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=457bd57fa3b44939b4c8ee087a613271
+    Album: 7 EP
+            
+spotify-this-song truth hurts
+
+
+    Artist: Lizzo
+    Track: Truth Hurts
+    Preview: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=457bd57fa3b44939b4c8ee087a613271
+    Album: Cuz I Love You (Deluxe)
+            
+concert-this taylor swift
+
+
+    Venue: Lover Fest East
+    Location: Foxborough, 
+    Event Date: 08/01/2020
+            
+spotify-this-song old town road
+
+
+    Artist: Lil Nas X
+    Track: Old Town Road - Remix
+    Preview: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=457bd57fa3b44939b4c8ee087a613271
+    Album: 7 EP
+            
+spotify-this-song truth hurts
+
+
+    Artist: Lizzo
+    Track: Truth Hurts
+    Preview: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=457bd57fa3b44939b4c8ee087a613271
+    Album: Cuz I Love You (Deluxe)
+            
+concert-this taylor swift
+
+
+    Venue: Lover Fest East
+    Location: Foxborough, 
+    Event Date: 08/01/2020
+            
+concert-this kendrick lamar
+undefined
+concert-this cardi b
+undefined
+kirk franklin
+
+concert-this lil nas x
+
+
+    Venue: Stagecoach Festival
+    Location: Indio, NV
+    Event Date: 04/24/2020
+            
+movie-this Liong King
+
+movie-this matrix
+
+movie-this Rampage
+
+
+    Title: Rampage
+    Released: 2018
+    IMDB Rating: 6.1
+    Rotten Tomatos Rating: 51%
+    Country: USA
+    Language: English, American Sign Language
+    Plot: When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.
+    Actors: Dwayne Johnson, Naomie Harris, Malin Akerman, Jeffrey Dean Morgan
+            
+spotify-this-song old town road
+
+
+    Artist: Lil Nas X
+    Track: Old Town Road - Remix
+    Preview: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=457bd57fa3b44939b4c8ee087a613271
+    Album: 7 EP
+            
+lizzo
+
+concert-this taylor swift
+
+
+    Venue: Lover Fest East
+    Location: Foxborough, 
+    Event Date: 08/01/2020
+            
+spotify-this-song hotline bling
+
+
+    Artist: Drake
+    Track: Hotline Bling
+    Preview: null
+    Album: Views
+            
+concert-this The Roots
+
+
+    Venue: The Riviera Theatre
+    Location: Chicago, FL
+    Event Date: 12/30/2019
+            
+movie-this Rampage
+
+
+    Title: Rampage
+    Released: 2018
+    IMDB Rating: 6.1
+    Rotten Tomatos Rating: 51%
+    Country: USA
+    Language: English, American Sign Language
+    Plot: When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.
+    Actors: Dwayne Johnson, Naomie Harris, Malin Akerman, Jeffrey Dean Morgan
+            
+movie-this Brian Banks
+
+
+    Title: Brian Banks
+    Released: 2018
+    IMDB Rating: 6.4
+    Rotten Tomatos Rating: 58/100
+    Country: USA
+    Language: English
+    Plot: A football player's dreams to play in the NFL are halted when he is wrongly convicted and sent to prison. Years later, he fights to clear his name within an unjust system.
+    Actors: Greg Kinnear, Aldis Hodge, Melanie Liburd, Tiffany Dupont
+            
+do-what-it-says
+
+
+    Artist: Backstreet Boys
+    Track: I Want It That Way
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=457bd57fa3b44939b4c8ee087a613271
+    Album: The Hits--Chapter One
+            
