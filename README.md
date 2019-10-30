@@ -7,6 +7,11 @@ To begin
 
 npm install
 
+npm install axios
+npm install moment
+npm install dotenv
+npm install spotify
+
 You will need a Spotify ID to make this request which you can get at:
 
 https://developer.spotify.com/documentation/web-api/
@@ -24,14 +29,26 @@ This application uses:
 
 <img src="spotify song.PNG" alt="spotify song"/>
 
+<img src="spotify song2.PNG" alt="spotify song"/>
+
 
 ###### To get a list of upcoming concerts from a artist or band enter:
 
 `node liri.js concert-this <name of artist or band>`
+
+<img src="concert search.PNG" alt="concert search"/>
+
+<img src="concert search2.PNG" alt="concert search2"/>
+
   
 ###### To get movie information enter:
 
 `node liri.js movie-this <name of movie>`
+
+<img src="movie search.PNG" alt="movie search"/>
+
+<img src="movie search2.PNG" alt="movie search2"/>
+
   
 ###### Enter this command below and see what it do:
 
