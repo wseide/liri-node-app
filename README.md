@@ -5,6 +5,9 @@
 
 https://drive.google.com/open?id=1mIp05ilRuZf89SMDU9L-mZyHVpfk7fm_
 
+[Link to DEMO](https://drive.google.com/open?id=1mIp05ilRuZf89SMDU9L-mZyHVpfk7fm_)
+
+
 LIRI is a command app that takes in informationa and fives you back the data you requested.
 
 To begin
