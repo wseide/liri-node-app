@@ -38,7 +38,7 @@ This application uses:
 
 <img src="concert search.PNG" alt="concert search"/>
 
-<img src="concert search2.PNG" alt="concert search2"/>
+<img src="concert search 2.PNG" alt="concert search2"/>
 
   
 ###### To get movie information enter:
@@ -53,5 +53,8 @@ This application uses:
 ###### Enter this command below and see what it do:
 
 `node liri.js do-what-it-says`
+
+<img src="do what it says.PNG" alt="do what it says"/>
+
  
  
