@@ -22,6 +22,9 @@ This application uses:
 
 `node liri.js spotify-this-song <name of artist/band>`
 
+<img src="spotify song.PNG" alt="spotify song"/>
+
+
 ###### To get a list of upcoming concerts from a artist or band enter:
 
 `node liri.js concert-this <name of artist or band>`
