@@ -19,10 +19,8 @@ npm install spotify
 
 You will need a Spotify ID to make this request which you can get at:
 
-https://developer.spotify.com/documentation/web-api/
 
 [Spotify API](https://developer.spotify.com/documentation/web-api/)
-
 
 
 This application uses: 
