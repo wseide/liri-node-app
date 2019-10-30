@@ -3,8 +3,6 @@
 
 #### DEMO:
 
-https://drive.google.com/open?id=1mIp05ilRuZf89SMDU9L-mZyHVpfk7fm_
-
 [Link to DEMO](https://drive.google.com/open?id=1mIp05ilRuZf89SMDU9L-mZyHVpfk7fm_)
 
 
@@ -22,6 +20,9 @@ npm install spotify
 You will need a Spotify ID to make this request which you can get at:
 
 https://developer.spotify.com/documentation/web-api/
+
+[Spotify API](https://developer.spotify.com/documentation/web-api/)
+
 
 
 This application uses: 
